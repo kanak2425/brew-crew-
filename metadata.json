@@ -1,0 +1,6 @@
+{
+  "name": "BREW CREW - Artisanal Coffee & Bottled Cold Brew",
+  "description": "Sip Happy. Discover artisanal cold brews, handcrafted espresso drinks, cozy café vibes, and cute coffee culture at BREW CREW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
